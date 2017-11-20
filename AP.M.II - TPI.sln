@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP.M.II - TPI", "AP.M.II - TPI.csproj", "{50A0CA14-103F-F096-6276-AB11CCF8270C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP.M.II - TPI.Editor", "AP.M.II - TPI.Editor.csproj", "{FFFD71D7-CEC1-FC16-82A0-F85085E0FD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A0CA14-103F-F096-6276-AB11CCF8270C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A0CA14-103F-F096-6276-AB11CCF8270C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A0CA14-103F-F096-6276-AB11CCF8270C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A0CA14-103F-F096-6276-AB11CCF8270C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFD71D7-CEC1-FC16-82A0-F85085E0FD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFD71D7-CEC1-FC16-82A0-F85085E0FD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFD71D7-CEC1-FC16-82A0-F85085E0FD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFD71D7-CEC1-FC16-82A0-F85085E0FD82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
